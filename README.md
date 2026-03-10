@@ -46,15 +46,18 @@ pip install flask flask-sqlalchemy requests
 
 ### Step 1: Input Text
 Paste your study material into the main input field.
-[screen shot: Main Input Page]
+<img width="3404" height="1970" alt="image" src="https://github.com/user-attachments/assets/1f2e642c-7689-464b-968c-b20d007f6e4a" />
+
 
 ### Step 2: Generation
 The AI will process the text and generate cards.
-[screen shot: Loading Animation]
+![Kapture 2026-03-10 at 17 43 52](https://github.com/user-attachments/assets/ede759d7-7ced-433e-b6e3-a7bcd6f08111)
+
 
 ### Step 3: Study
 Flip the cards to test your knowledge!
-[screen shot: Results/Flashcards Page]
+![Kapture 2026-03-10 at 17 57 46](https://github.com/user-attachments/assets/fafeeeed-1d56-43c1-97ab-a7b0e9f10266)
+
 
 ---
 
